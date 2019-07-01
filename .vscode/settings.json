@@ -1,3 +1,5 @@
 {
-  "python.pythonPath": "C:\\Users\\aa\\.virtualenvs\\2-Gsfeeftv\\Scripts\\python.exe"
+  "python.pythonPath": "C:\\Users\\aa\\.virtualenvs\\2-Gsfeeftv\\Scripts\\python.exe",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
